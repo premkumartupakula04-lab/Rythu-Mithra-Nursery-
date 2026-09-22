@@ -1,0 +1,6 @@
+{
+  "name": "Rythu Mithra Nursery",
+  "description": "Rythu Mithra Nursery provides quality chilli seedlings (Mirapa Naru) and serves farmers across Andhra Pradesh and Telangana. Based in Chandrapalem Mandal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
